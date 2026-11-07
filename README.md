@@ -28,8 +28,7 @@ Classification instantanée : PASS (Conforme) ou FAIL (Non-conforme avec boîte 
 Démonstrateur Interactif en Ligne (Google Colab)
 Accédez à l'environnement d'exécution complet et testez l'algorithme sur les jeux de données :
 
-👉 https://colab.research.google.com
-
+👉 https://colab.research.google.com/drive/1oEev2nWk6UoqN5sL3LvH-zDVXgJa2YZF
 Auteur
 Ahmed El Ayachi
 
