@@ -1,0 +1,1 @@
+# controle-qualite-vision-industrielle-opencv
